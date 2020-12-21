@@ -9,7 +9,7 @@ This is *only* for *educational purposes*
 
 *This only works with WINDOWS* 
 
-every file inside the "Files folder is a normal text file (ending with the .txt extension)
+every file inside the "Files" folder is a normal text file (ending with the .txt extension)
 you will have to rename your file to .bat before using it
 
 some files must be in the .vbs format, check the files names i have uploaded, if it says to rename it to .vbs then you will have to fo it before using, if nothing is mentioned, you will have to rename it as .bat
